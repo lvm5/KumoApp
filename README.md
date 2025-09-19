@@ -1,9 +1,9 @@
-### 🌀 ZenziApp - Experiments in SwiftUI for iOS and watchOS
+### 🌀 KumoApp - Experiments in SwiftUI for iOS and watchOS
 
 This repository brings together two projects developed as part of the learning journey in the iOS Lab School and personal practices of SwiftUI.
 Both explore concepts of minimalist design, and fluid animations applied in different contexts:
 
-•	 ZenziApp → an app for Apple Watch, guiding breathing with organic shapes (Shape / Path).
+•	 KumoApp → an app for Apple Watch, guiding breathing with organic shapes (Shape / Path).
 
 🧑‍💻 Developer: Leandro Vansan de Morais
 📅 Date: September 2025
@@ -23,7 +23,7 @@ Both explore concepts of minimalist design, and fluid animations applied in diff
 ⸻
 
 🚀 Features
-•	 ZenziApp (watchOS)
+•	 KumoApp (watchOS)
 •	 Drawing of organic petals with Shape and Path.
 •	 Animated breathing cycle (inspiration/exhalation).
 •	 Navigation with NavigationStack.
@@ -63,8 +63,8 @@ Responsive design	 Compatibility with iOS, iPadOS, and watchOS.
 
 🛠️ How to Execute
 1.	 Clone the repository:
-Git clone https://github.com/lvm5/ZenziApp.git
-Cd ZenziApp
+Git clone https://github.com/lvm5/KumoApp.git
+Cd KumoApp
 2.	 Open on Xcode 15+ with support for iOS, iPadOS, and watchOS.
 3.	 Select the desired scheme (iOS or Watch).
 4.	 Build and run.
