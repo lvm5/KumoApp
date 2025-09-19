@@ -1,7 +1,6 @@
 ### 🌀 KumoApp - Experiments in SwiftUI for iOS and watchOS
 
-![Kumo Logo](https://github.com/lvm5/brand/blob/182168be899c507e5ec30388c380e32a1b7ff340/Kumo-iOS-Dark-1024x1024%401x.png)
-
+<img src="https://github.com/lvm5/brand/blob/182168be899c507e5ec30388c380e32a1b7ff340/Kumo-iOS-Dark-1024x1024%401x.png" alt="Kumo Logo" width="200"/>
 
 
 This repository brings together two projects developed as part of the learning journey in the iOS Lab School and personal practices of SwiftUI.
