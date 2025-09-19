@@ -1,0 +1,144 @@
+{
+  "fill-specializations" : [
+    {
+      "value" : {
+        "linear-gradient" : [
+          "display-p3:0.52648,0.52648,0.52648,1.00000",
+          "display-p3:0.29869,0.29869,0.29869,1.00000"
+        ]
+      }
+    },
+    {
+      "appearance" : "dark",
+      "value" : {
+        "linear-gradient" : [
+          "extended-gray:0.25000,1.00000",
+          "extended-gray:0.00000,1.00000"
+        ]
+      }
+    }
+  ],
+  "groups" : [
+    {
+      "blend-mode" : "screen",
+      "blur-material" : 1,
+      "layers" : [
+        {
+          "blend-mode-specializations" : [
+            {
+              "value" : "plus-darker"
+            },
+            {
+              "appearance" : "dark",
+              "value" : "screen"
+            }
+          ],
+          "fill-specializations" : [
+            {
+              "value" : {
+                "linear-gradient" : [
+                  "extended-srgb:0.00000,0.53333,1.00000,1.00000",
+                  "display-p3:0.05768,0.17322,0.37036,1.00000"
+                ]
+              }
+            },
+            {
+              "appearance" : "dark",
+              "value" : {
+                "linear-gradient" : [
+                  "extended-srgb:0.00000,0.75294,0.90980,1.00000",
+                  "display-p3:0.16769,0.39066,0.73199,1.00000"
+                ]
+              }
+            }
+          ],
+          "glass" : true,
+          "image-name" : "Kumo Logo Opção 2-2.png",
+          "name" : "Kumo Logo Opção 2-2",
+          "position" : {
+            "scale" : 0.9,
+            "translation-in-points" : [
+              355,
+              15
+            ]
+          }
+        }
+      ],
+      "lighting" : "combined",
+      "shadow" : {
+        "kind" : "layer-color",
+        "opacity" : 1
+      },
+      "specular" : false,
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.2
+      }
+    },
+    {
+      "blend-mode" : "normal",
+      "blur-material" : null,
+      "layers" : [
+        {
+          "fill-specializations" : [
+            {
+              "value" : {
+                "linear-gradient" : [
+                  "extended-srgb:0.20392,0.78039,0.34902,1.00000",
+                  "display-p3:0.09405,0.21651,0.13604,1.00000"
+                ]
+              }
+            },
+            {
+              "appearance" : "dark",
+              "value" : {
+                "linear-gradient" : [
+                  "extended-srgb:0.20392,0.78039,0.34902,1.00000",
+                  "display-p3:0.09405,0.21651,0.13604,1.00000"
+                ]
+              }
+            }
+          ],
+          "image-name" : "Kumo Logo Opção 2-3.png",
+          "name" : "Kumo Logo Opção 2-3",
+          "position" : {
+            "scale" : 0.45,
+            "translation-in-points" : [
+              -220,
+              0
+            ]
+          }
+        }
+      ],
+      "lighting" : "individual",
+      "shadow" : {
+        "kind" : "layer-color",
+        "opacity" : 1
+      },
+      "specular" : false,
+      "translucency" : {
+        "enabled" : false,
+        "value" : 0.5
+      }
+    },
+    {
+      "layers" : [
+
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}
