@@ -10,7 +10,7 @@ Both explore concepts of minimalist design, and fluid animations applied in diff
 
 🧑‍💻 Developer: Leandro Vansan de Morais
 📅 Date: September 2025
-🌍 Platforms: iOS, iPadOS, and watchOS
+🌍 Platforms: WatchOS
 🎓 Course: iOS Lab School / Prof. Gustavo Cosme
 
 ⸻
